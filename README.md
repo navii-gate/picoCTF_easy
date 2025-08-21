@@ -2,7 +2,7 @@
 
 공부 기록용
 
-#진행할 wargame 
+#진행할 문제
 -picoCTF_easy
 
 #풀이 규칙
