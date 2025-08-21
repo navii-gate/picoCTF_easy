@@ -1,9 +1,9 @@
-# wargame 기록
+# CTF,wargame 기록
 
-wargame 공부 기록용
+공부 기록용
 
 #진행할 wargame 
--picoCTF
+-picoCTF_easy
 
 #풀이 규칙
 - 문제 설명
