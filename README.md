@@ -1,4 +1,4 @@
-# CTF,wargame 기록
+# CTF 기록
 
 공부 기록용
 
