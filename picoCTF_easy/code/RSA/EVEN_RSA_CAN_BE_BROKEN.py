@@ -10,5 +10,3 @@ m = pow (c, d, n)
 
 flag = plaintext = m.to_bytes((m.bit_length() + 7) // 8, "big")
 print(flag)
-                                             
-
